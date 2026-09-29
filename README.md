@@ -45,3 +45,4 @@
 
 **Where I practice offensive security and sharpen my skills:**<br><br>
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Tr1indad)
+[![Hacking Club](https://img.shields.io/badge/HACKING_CLUB-8957E5?style=for-the-badge)](https://app.hackingclub.com/profile/user/30881)
